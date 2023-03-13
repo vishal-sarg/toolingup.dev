@@ -12,7 +12,7 @@ module.exports = {
     title: `toolingup.dev`,
     author: {
       name: `Vishal Pratap Singh`,
-      summary: `who lives and works from India 🪷 and spends his time building Sarg.io and exploring DevTools 🧑‍💻.`,
+      summary: `who lives and works from India 🪷 and spends his time building Sarg.io and nerding out over DevTools 🧑‍💻.`,
     },
     description: `A blog on DevTools and more!`,
     siteUrl: `https://toolingup.dev/`,
